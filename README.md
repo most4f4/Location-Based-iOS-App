@@ -1,4 +1,4 @@
-# Location-Based-iOS-App# 🗺️ Location-Based iOS App
+# 🗺️ Location-Based iOS App
 
 This project is an iOS SwiftUI app that displays user location and Points of Interest (POIs) on a map.
 The app also supports search, filtering, ETA calculation, and distance display.
